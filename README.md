@@ -7,6 +7,7 @@ When starting a react project with redux toolkit.
 	2. Redux (--template redux)
 	3. Styled Component
 	4. react-icons
+	5. dotenv
 
 
 ### 🍀 devDependencies
